@@ -1,0 +1,19 @@
+.top{
+    background-image: url("./photo.jpg");
+    padding-bottom:0px;
+    height:35vh
+}
+.bt{
+    border:2px solid white;
+}
+.mt{
+    margin-top:-25px
+}
+.mb{
+    position:relative;
+    bottom:-55px;
+}
+.mb1{
+    position:relative;
+    bottom:-55px;
+}
